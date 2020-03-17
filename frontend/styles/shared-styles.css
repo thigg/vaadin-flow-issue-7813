@@ -1,0 +1,18 @@
+
+:root{
+    --app-layout-drawer-background-base-color:rebeccapurple;
+}
+.contentdiv{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    border: 1px lightgray solid;
+}
+
+#drawer{
+}
+.drawername{
+    background-color: orange;
+    color:white;
+    text-align: center;
+}
